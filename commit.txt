@@ -1,1 +1,2 @@
 First commit
+Merge without conflicts
