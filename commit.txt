@@ -12,3 +12,5 @@ Pull changes with conflict
 rebase main changes
 
 cherry-pick line
+
+changes for reset
